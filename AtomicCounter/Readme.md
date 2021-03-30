@@ -1,4 +1,4 @@
-##Go 
+## Go 
 ```sh
 go version 1.16 windows/amd64
 
@@ -7,7 +7,7 @@ user    0m0,000s
 sys     0m0,000s
 ```
 
-##Rust
+## Rust
 ```sh
 cargo 1.50.0 (f04e7fab7 2021-02-04)
 
